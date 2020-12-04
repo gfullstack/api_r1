@@ -4,4 +4,4 @@ index_bp = Blueprint('index', __name__)
 
 @index_bp.route('/', methods=['GET'])
 def home():
-    return 'API it is Working...! - v1.0 | Allsaver, Web Developer!!!'
+    return 'API it is Working...! - v1.1 | Allsaver, Web Developer!!!'
